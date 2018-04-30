@@ -23,10 +23,10 @@ La actividad empezará a las 18.33 y terminará a las 18.50 de todos los lunes d
 
 * Recaudación:
 
-El dinero de la venta de entradas irá destinado a:
+  El dinero de las entradas irá destinado a:
 
-+ 42% a Jazar
-+ 42% a ProtoMakers.Club
-+ 16% proyectos de sw/hw libre a decidir por pmc.
+  + 42% Jazar
+  + 42% ProtoMakers.Club
+  + 16% proyectos de sw/hw libre (a decidir por pmc)
 
 Nota: Se irán subiendo los audios a las carpetas de sesion_1, sesion_2... Si os lo queréis pasar mejor no entréis para conservar la sorpresa ;).
